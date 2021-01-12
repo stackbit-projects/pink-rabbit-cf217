@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: 'Advocacy that '
+    title: Advocacy that Changes the Story
     subtitle: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus.
