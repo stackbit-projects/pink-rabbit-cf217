@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: Advocacy that Changes the Story
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      Through creative guerilla advocacy, the Washington Street Advocacy seeks
+      to change both city policy and popular narrative.
     actions:
       - label: Learn More
         url: /features
