@@ -22,6 +22,7 @@ sections:
     title: ''
     team:
       - src/data/team/gordon-norman.yaml
+      - src/data/team/person-yukryd1wv.json
   - type: cta_section
     title: Join the Team
     subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
