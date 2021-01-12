@@ -22,7 +22,6 @@ sections:
     title: ''
     team:
       - src/data/team/gordon-norman.yaml
-      - src/data/team/person-yukryd1wv.json
       - src/data/team/person-lek18qarw.json
   - type: cta_section
     title: Join the Team
