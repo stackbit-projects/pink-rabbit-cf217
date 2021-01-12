@@ -29,7 +29,7 @@ sections:
     features:
       - title: Historic Preservation in "Little Syria" and Across Lower Manhattan
         content: >
-          The Washington Street Advocacy Group's work contributed the saving the
+          The Washington Street Advocacy Group's work contributed to saving the
           Downtown Community House in the "Little Syria" of Downtown Manhattan.
           Through dedicated research and creative advocacy, the organization has
           altered national and international audiences to the failures of
