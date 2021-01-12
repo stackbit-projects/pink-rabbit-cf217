@@ -20,8 +20,7 @@ sections:
       turpis in eu mi bibendum neque egestas.
   - type: team_section
     title: ''
-    team:
-      - src/data/team/gordon-norman.yaml
+    team: []
   - type: cta_section
     title: Join the Team
     subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
