@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Advocacy that Tells New Stories in New York City
+    title: Advocacy to Tell New Stories for New York City
     subtitle: >-
       Through creative guerilla advocacy, the Washington Street Advocacy seeks
       to change both city policy and popular narrative.
