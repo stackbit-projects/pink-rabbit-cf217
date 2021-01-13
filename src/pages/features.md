@@ -10,10 +10,11 @@ sections:
   - type: features_section
     features:
       - title: Downtown Community House
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          For the last decade, we have advocated that the Downtown Community
+          House at 105-107 Washington Street be a protected landmark. Here you
+          can read our reports on the issue and about the progress we are
+          making.
         align: left
         image: images/feature.svg
         image_alt: Feature 1 placeholder image
