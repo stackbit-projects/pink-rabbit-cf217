@@ -66,7 +66,9 @@ sections:
         content: >
           The Washington Street Advocacy Group pursues new literary and
           historical projects that seek to educate new audiences about the
-          literary heritage of the Little Syria neighborhood.
+          literary heritage of the Little Syria neighborhood. This includes
+          public events, the publication of new physical and electronic books,
+          and walking tours that educate broad audiences. 
         align: left
         image: images/feature.svg
         image_alt: Feature 3 placeholder image
