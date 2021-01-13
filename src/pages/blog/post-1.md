@@ -1,5 +1,5 @@
 ---
-title: Remarkable Victory regarding 250 Water Street
+title: No Action at Landmarks Preservation Commission for 250 Water Street!
 date: '2021-01-13'
 author: src/data/team/dianne-ameter.yaml
 categories:
