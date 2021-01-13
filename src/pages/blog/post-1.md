@@ -11,6 +11,8 @@ excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ea mala virtuti
   magnitudine obruebantur. Duo Reges: constructio interrete.
 template: post
+tags:
+  - lorem-ipsum
 ---
 The Washington Street Advocacy Group has released a statement after the Landmarks Preservation Commission's decision to take "no action" on Howard Hughes's proposal for 250 Water Street on January 12, 2021:
 
