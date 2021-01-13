@@ -4,6 +4,7 @@ date: '2021-01-13'
 author: src/data/team/dianne-ameter.yaml
 categories:
   - src/data/categories/general.yaml
+  - src/data/categories/category-lmyewse74.json
 image: images/1.png
 image_alt: Post 1 placeholder image
 excerpt: >-
