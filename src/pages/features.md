@@ -20,7 +20,7 @@ sections:
         image_position: right
         actions:
           - label: Learn More
-            url: /about
+            url: /downtown-community-house
             style: primary
       - title: Feature 2
         content: >-
