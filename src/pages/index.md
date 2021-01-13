@@ -62,10 +62,10 @@ sections:
             url: /features
             style: secondary
       - title: Literary Heritage of Writers Ameen Rihani and Kahlil Gibran
-        content: >-
-          Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
-          eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
-          ante.
+        content: >
+          The Washington Street Advocacy Group pursues new literary and
+          historical projects that seek to educate new audiences about the
+          literary heritage of the Little Syria neighborhood.
         align: left
         image: images/feature.svg
         image_alt: Feature 3 placeholder image
