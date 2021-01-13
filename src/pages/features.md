@@ -3,7 +3,9 @@ title: Features
 sections:
   - type: hero_section
     title: Advocacy Issues
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
+    subtitle: >-
+      The Washington Street Advocacy Group works on a variety of issues related
+      to the history and neighborhoods of New York City.
     align: center
   - type: features_section
     features:
