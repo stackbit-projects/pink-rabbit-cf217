@@ -20,7 +20,9 @@ sections:
     team: []
   - type: cta_section
     title: Join the Team
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
+    subtitle: >-
+      The Washington Street Advocacy Group always seeks new collaborators and
+      partners.
     actions:
       - label: Contact Us
         url: /contact
