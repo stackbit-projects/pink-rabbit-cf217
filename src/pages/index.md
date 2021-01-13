@@ -45,10 +45,14 @@ sections:
             url: /features
             style: secondary
       - title: Monuments in "Little Syria" and Throughout the City
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          After many years of advocacy on a memorial for the literary heritage
+          of "Little Syria" neighborhood in Lower Manhattan, we have learned a
+          great deal about New York City's processes for the nomination and
+          installation of new public art and monuments. As a result, the
+          Washington Street Advocacy Groups works to ensure that processes at
+          the Department of Cultural Affairs and the Public Design Commission
+          produce outcomes worthy of New York's great public spaces.
         align: left
         image: images/feature.svg
         image_alt: Feature 2 placeholder image
