@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Advocacy Issues
 excerpt: lorem-ipsum
 template: page
 ---
