@@ -33,7 +33,9 @@ sections:
           Downtown Community House in the "Little Syria" of Downtown Manhattan.
           Through dedicated research and creative advocacy, the organization has
           altered national and international audiences to the failures of
-          historic preservation policy since September 11, 2001.
+          historic preservation policy in Lower Manhattan since September 11,
+          2001.  The organization supports other preservation groups in
+          locations like SoHo and the South Street Seaport.
         align: left
         image: images/feature.svg
         image_alt: Feature 1 placeholder image
